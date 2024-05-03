@@ -3,7 +3,6 @@
 Hi, I'm **@KatoIsa**, a full stack developer with a passion for creating scalable and secure applications. I specialize in both frontend and backend technologies, and I'm particularly interested in **cyber security** and **cloud computing**.
 
 ![Full Stack Development](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
-*Welcome to my world of full stack development!*
 
 ## 👨‍💻 Technologies I Use
 
