@@ -2,13 +2,17 @@
 
 Hi, I'm **@KatoIsa**, a full stack developer with a passion for creating scalable and secure applications. I specialize in both frontend and backend technologies, system design, and app development. I'm also interested in **cyber security** and **cloud computing**.
 
-![Full Stack Development](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Fireworks 1" height="200" width="230"/>
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Fireworks 2" height="200" width="230"/>
+  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Fireworks 3" height="200" width="230"/>
+</div>
 
 ## 👨‍💻 Technologies I Use
 
 | Frontend          | Backend          | DevOps & Cloud   | System Design    | App Development  |
 | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)   | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Microservices](https://img.shields.io/badge/-Microservices-6E2594?style=flat-square&logoColor=white) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)   | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | ![Microservices](https://img.shields.io/badge/-Microservices-6E2594?style=flat-square) | ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  | ![Express](https://img.shields.io/badge/-Express-000?style=flat-square&logo=express&logoColor=white)  | ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) | ![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-7952B3?style=flat-square) | ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)  | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) | ![UML](https://img.shields.io/badge/-UML-006400?style=flat-square) | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
 
