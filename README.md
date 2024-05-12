@@ -2,12 +2,6 @@
 
 Hi, I'm **@KatoIsa**, a full stack developer with a passion for creating scalable and secure applications. I specialize in both frontend and backend technologies, system design, and app development. I'm also interested in **cyber security** and **cloud computing**.
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Fireworks 1" height="200" width="230"/>
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Fireworks 2" height="200" width="230"/>
-  <img src="https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif" alt="Fireworks 3" height="200" width="230"/>
-</div>
-
 ## 👨‍💻 Technologies I Use
 
 | Frontend          | Backend          | DevOps & Cloud   | System Design    | App Development  |
